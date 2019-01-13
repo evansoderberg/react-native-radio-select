@@ -1,6 +1,6 @@
 {
   "name": "react-native-radio-select",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and flexible searchable radio select component that plays nicely with async data",
   "main": "index.js",
   "directories": {
